@@ -1,5 +1,5 @@
 """
-Neka je R = 1000 = 10^3 te m = 209.
+Neka je R = 1000 te m = 209.
 Nadite najmanji prirodan broj T > 2000 takav da je
 u Montgomeryjevoj redukciji broj (T + Um)/R − (T*R^(−1) mod m) jednak m.
 """
