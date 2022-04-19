@@ -17,5 +17,4 @@ u Montgomeryjevoj redukciji broj `(T + U * m)/R − (T * R^(−1) (mod m))` jedn
 > Nadite najmanji prirodan broj `d` sa svojstvom da je duljina perioda u razvoju u
 jednostavni verizni razlomak broja `√d` jednaka `16`.
 
-`157 = [12, 1, 1, 7, 1, 5, 2, 1, 1, 1, 1, 2, 5, 1, 7, 1, 1, 24]
-`
+`94 = [9, 1, 2, 3, 1, 1, 5, 1, 8, 1, 5, 1, 1, 3, 2, 1, 18]`

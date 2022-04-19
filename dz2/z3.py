@@ -52,7 +52,7 @@ def continued_fraction(d):
 def main():
     for d in tqdm(count(2)):
         continued_frac = continued_fraction(d)
-        if len(continued_frac) == 18:
+        if len(continued_frac) == 17:
             return d, continued_frac
 
 
