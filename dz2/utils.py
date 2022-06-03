@@ -3,7 +3,8 @@ import functools
 
 def euclid(x, y):
     if not x > y:
-        return euclid(y, x)
+        yield from euclid(y, x)
+        return
 
     while y > 0:
         q, r = divmod(x, y)
